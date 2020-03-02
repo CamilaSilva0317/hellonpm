@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/maroca26/HelloNpm/issues"
   },
-  "homepage": "https://github.com/maroca26/HelloNpm#readme"
+  "homepage": "https://github.com/maroca26/HelloNpm#readme",
+  "dependencies": {
+    "brazil-mocker": "^1.1.9"
+  }
 }
